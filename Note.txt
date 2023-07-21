@@ -1,0 +1,47 @@
+node -v
+
+npx create-react-app 01tut
+
+ES7 React/Redux/GraphQL/React-Native snippets
+
+Item		Value
+javascript	javascriptreact
+
+cd 01tut
+
+code .
+
+npm start
+
+Cntrl + C
+
+npm i react-icons -D
+
+npm i react-icons --save-prod
+
+npx create-react-app 10tut
+
+npm i colornames -S
+
+12tut---// We just want to launch it and work with it.
+
+	npx json-server -p 3500 -w data/db.json
+	http://localhost:3500/items--GET REQUEST
+	
+	DELETE ITEM-DELETE REQUEST
+	UPDATE-PATCH REQUEST
+	READ-GET REQUEST
+	CREATE-POST REQUEST
+
+13tut---//npx json-server -p 3500 -w data/db.json
+	
+15tut---jsonplaceholder.typicode.com
+	/posts	--->jsonplaceholder.typicode.com/posts	
+	npx create-react-app 15tut
+
+16tut---npx create-react-app 16tut
+	npm i react-router-dom -S
+	npm i react-router-dom@6	//To update react to current version
+17tut---npm i date-fns -S
+
+19tut---npm i axios -S
